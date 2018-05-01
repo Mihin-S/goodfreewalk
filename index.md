@@ -3,7 +3,7 @@
 1. The term "personal information" used herein is defined as any information received from your phone's camera that identifies or can be used to identify, communicate or search for the person to whom such information relates. The personal information we use will be the subject of this privacy policy.
 2. When using the camera device We do **not save** video files on the device or elsewhere.
 3. When using the camera device does **not transfer** the video to anyone.
-3. Access to the device's camera is used only to create an augmented reality in real time.
+3. Access to the device's camera is used **only to create an augmented reality** in real time.
 3. The security of your personal information will not be compromised.
 4. We do not ask for your email address, phone number or any information about you.
 5. We do not require registration.
