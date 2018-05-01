@@ -1,18 +1,18 @@
-# Privacy policy 
+##Политика конфиденциальности
+1. Термин “личная информация”, используемый в настоящем документе, определяется как любая информация, полученная от камеры Вашего телефона, которая идентифицирует или может использоваться для идентификации, связи или поиска человека, к которому такая информация относится. Личная информация, которую мы используем, будет являться предметом настоящей политики конфиденциальности.
+2. При использовании камеры устройства Мы не сохраняем видеофайлы на устройстве или где-либо еще.
+3. При использовании камеры устройства не происходит передачи видео кому-либо.
+4. Доступ к камере устройства используется только для создания дополненной реальности в режиме реального времени.
+5. Безопасность Вашей персональной информации не будет нарушена.
+6. Мы не запрашиваем Ваш адрес электронной почты, телефон или какую-нибудь информацию о Вас.
+7. Мы не требуем регистрации.
+8. Мы не просим информацию о местоположении через наше мобильное приложение.
+9. Мы не отправляем на электронную почту рассылку новостей.
 
-1. The term "personal information" used herein is defined as any information received from your phone's camera that identifies or can be used to identify, communicate or search for the person to whom such information relates. The personal information we use will be the subject of this privacy policy.
-2. When using the camera device We do **not save** video files on the device or elsewhere.
-3. When using the camera device does **not transfer** the video to anyone.
-3. Access to the device's camera is used **only to create an augmented reality** in real time.
-3. The security of your personal information will not be compromised.
-4. We do not ask for your email address, phone number or any information about you.
-5. We do not require registration.
-6. We do not ask for location information via our mobile application.
-7. We do not send newsletters to e-mail.
+#Требуемые разрешения
+1. Доступ к камере устройства используется только для рисования фона внутри игры.
 
-## Required permissions
-1. Access to the camera device is used only to draw a background inside the game.
-
-Contacts
+Контакты
 
 e-mail: goodfreewalk@gmail.com
+
